@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nifi-chentianle-processor-bundle.iml" filepath="$PROJECT_DIR$/nifi-chentianle-processor-bundle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-chentianle1993-nar/nifi-chentianle1993-nar.iml" filepath="$PROJECT_DIR$/nifi-chentianle1993-nar/nifi-chentianle1993-nar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-chentianle1993-processors/nifi-chentianle1993-processors.iml" filepath="$PROJECT_DIR$/nifi-chentianle1993-processors/nifi-chentianle1993-processors.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.chentianle1993:nifi-chentianle1993-processors:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/ubuntu/root/.m2/repository/com/github/chentianle1993/nifi-chentianle1993-processors/1.0-SNAPSHOT/nifi-chentianle1993-processors-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/nifi-chentianle1993-processors/nifi-chentianle1993-processors-1.0-SNAPSHOT-javadoc.jar!/" />
+      <root url="jar://D:/ubuntu/root/.m2/repository/com/github/chentianle1993/nifi-chentianle1993-processors/1.0-SNAPSHOT/nifi-chentianle1993-processors-1.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/nifi-chentianle1993-processors/nifi-chentianle1993-processors-1.0-SNAPSHOT-sources.jar!/" />
+      <root url="jar://D:/ubuntu/root/.m2/repository/com/github/chentianle1993/nifi-chentianle1993-processors/1.0-SNAPSHOT/nifi-chentianle1993-processors-1.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
